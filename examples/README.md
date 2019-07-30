@@ -1,5 +1,5 @@
 # Keras examples directory
-
+**These models are also indexed at [here](https://keras.rstudio.com/articles/examples/index.html).** *(for personal reference)*
 ## Vision models examples
 
 [mnist_mlp.py](mnist_mlp.py)
